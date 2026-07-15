@@ -1,12 +1,10 @@
-# 31858_2025_Moise_Ishimwe_Passport_DB
-Oracle Database Capstone Project - Passport Appointment Booking System
- # Passport Appointment Booking System
+# Passport Appointment Booking System
 
 ## Course
 DPR400210 – Database Programming with Oracle Database
 
 ## Student
-Moïse ISHIMWE
+Moïse ISHIMWE ID: 31858/2025
 
 ## Database
 Oracle Database 19c

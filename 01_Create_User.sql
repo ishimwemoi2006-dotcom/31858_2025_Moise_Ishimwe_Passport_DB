@@ -1,0 +1,10 @@
+CREATE USER passport_user IDENTIFIED BY Pass1234;
+
+GRANT CONNECT, RESOURCE TO passport_user;
+
+GRANT CREATE VIEW TO passport_user;
+GRANT CREATE SEQUENCE TO passport_user;
+GRANT CREATE TRIGGER TO passport_user;
+GRANT CREATE PROCEDURE TO passport_user;
+
+ALTER USER passport_user QUOTA UNLIMITED ON USERS;
